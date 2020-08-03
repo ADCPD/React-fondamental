@@ -7,12 +7,12 @@ class ClassClick extends Component {
     }
     
     render() {
-            return (
-                <div>
-                    <Button className="btn-success" onClick={this.ClickHandler}>Class : Click</Button>
-                </div>
-            )
-        }
+        return (
+            <div>
+                <Button className="btn-success" onClick={this.ClickHandler}>Class : Click</Button>
+            </div>
+        )
+    }
 }
 
 export default ClassClick;

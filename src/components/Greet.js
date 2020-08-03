@@ -1,24 +1,25 @@
 import React from 'react'; 
 
-/* JS
-function Greet() {
-    return (
-      <div className="App"> 
-          <h1>
-          Hello World !
-          </h1>
-      </div>
-    );
-  }
-  */
+/* SYNTAXE 1
+const Greet = props => {
+  console.log(props);
+return <h1>Hello {props.name}</h1>
+}
+*/
 
-  // JSX
+// SYNTAXE 2
+const Greet = (props) => {
+  return <div className="card" >
+  <div className="card-body">
+    <h5 className="card-title">{props.name}</h5>
+      <p className="card-text">
+        Connu en tant que : {props.heroName}
+        <br />
+        {props.children}
+        </p> 
 
-   const Greet  = () => <h1> Hello World ! </h1>
-  
-  // We can call component by his only declared name like Greet
-  // use import like this : import {Greet}
-  //export const Greet  = () => <h1> Hello World ! </h1>
-  
-  // when use this syntaxe we can call this any name we like to be
+  </div>
+</div> 
+}
+
 export default Greet;

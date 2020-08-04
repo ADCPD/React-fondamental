@@ -1,0 +1,79 @@
+
+    {
+      "id": 0,
+      "balance": "$3,921.50",
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "eyeColor": "green",
+      "name": "Ada Franks",
+      "gender": "female",
+      "email": "adafranks@teraprene.com",
+      "phone": "+1 (941) 482-2465"
+    },
+    {
+      "id": 1,
+      "balance": "$1,158.50",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Hyde Russo",
+      "[gender": "male",
+      "email": "hyderusso@teraprene.com",
+      "phone": "+1 (935) 548-3205"
+    },
+    {
+      "id": 2,
+      "balance": "$3,138.27",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "blue",
+      "name": "Page Forbes",
+      "gender": "male",
+      "email": "pageforbes@teraprene.com",
+      "phone": "+1 (951) 555-2260"
+    },
+    {
+      "id": 3,
+      "balance": "$1,308.47",
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "eyeColor": "blue",
+      "name": "Neal Rivas",
+      "gender": "male",
+      "email": "nealrivas@teraprene.com",
+      "phone": "+1 (863) 521-2784"
+    },
+    {
+      "id": 4,
+      "balance": "$3,380.95",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "brown",
+      "name": "Obrien Powers",
+      "gender": "male",
+      "email": "obrienpowers@teraprene.com",
+      "phone": "+1 (982) 402-2876"
+    },
+    {
+      "id": 5,
+      "balance": "$1,914.37",
+      "picture": "http://placehold.it/32x32",
+      "age": 34,
+      "eyeColor": "blue",
+      "name": "Porter Wilder",
+      "gender": "male",
+      "email": "porterwilder@teraprene.com",
+      "phone": "+1 (837) 514-3450"
+    },
+    {
+      "id": 6,
+      "balance": "$1,966.03",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "blue",
+      "name": "Lila Robinson",
+      "gender": "female",
+      "email": "lilarobinson@teraprene.com",
+      "phone": "+1 (860) 591-2479"
+    }
+  ]

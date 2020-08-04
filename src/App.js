@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import EventBind from './components/EventHandler/EventBind';
+import ParentComponent from './components/MethodAsProps/ParentComponent';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-         <EventBind /> 
+         <ParentComponent /> 
       </div>
     );
  }

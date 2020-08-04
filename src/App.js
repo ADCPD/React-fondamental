@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
-
-import ParentComponent from './components/MethodAsProps/ParentComponent';
+import UserGreeting from './components/ConditionalRendering/UserGreeting';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-         <ParentComponent /> 
+          <UserGreeting/>
       </div>
     );
  }
